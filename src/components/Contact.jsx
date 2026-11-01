@@ -86,7 +86,7 @@ export default function Contact() {
             <div className="relative h-[480px] lg:h-[600px] rounded-2xl overflow-hidden shadow-xl">
 
               <img
-                src="./public/images/cc.png"
+                src="./images/cc.png"
                 alt="Physiotherapist professional portrait"
                 className="w-full h-full object-cover object-center"
               />
