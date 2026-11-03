@@ -83,16 +83,14 @@ export default function About() {
             </h3>
 
             <p className="mt-6 md:mt-7 text-slate-500 leading-8">
-              Physiotherapy is more than treating pain.
-              It is about understanding each individual's
-              needs, restoring movement and improving
-              quality of life.
+              At AAROGYA PHYSIOTHERAPY, we believe that physiotherapy is more than just treating pain — it is about restoring movement, improving physical function and helping people live healthier, more active lives.
             </p>
 
             <p className="mt-5 text-slate-500 leading-8">
-              My approach focuses on personalized care,
-              evidence-based treatment and helping every
-              individual work towards their recovery goals.
+            Based in Pokhara, Nepal, AAROGYA PHYSIOTHERAPY is dedicated to providing personalized, evidence-based physiotherapy care tailored to each individual's needs and recovery goals. Whether you are experiencing back pain, neck pain, joint problems, sports injuries or mobility difficulties, our approach focuses on understanding the root of the problem and supporting your journey towards better health.
+            </p>
+             <p className="mt-5 text-slate-500 leading-8">
+              If you are looking for a best physiotherapist in Pokhara or professional physiotherapy services in Pokhara, AAROGYA PHYSIOTHERAPY is here to support your journey towards recovery, strength and better movement.
             </p>
 
             {/* Highlights */}

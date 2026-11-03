@@ -18,20 +18,27 @@ export default function Navbar() {
       <nav className="max-w-[1440px] mx-auto px-6 md:px-12 lg:px-16 h-24 flex items-center justify-between">
 
         {/* Logo */}
-        <a
-          href="#home"
-          onClick={() => setMenuOpen(false)}
-          className="flex flex-col shrink-0"
-        >
-          <span className="text-2xl font-semibold tracking-tight text-[#153A5B]">
-            AAROGYA
-          </span>
+<a
+  href="#home"
+  onClick={() => setMenuOpen(false)}
+  className="flex items-center gap-3 shrink-0"
+>
+  <img
+    src="/logo.png"
+    alt="AAROGYA Physiotherapy"
+    className="w-14 h-14 object-contain"
+  />
 
-          <span className="text-[9px] tracking-[3px] text-slate-500 mt-1">
-             PHYSIOTHERAPY
-          </span>
-        </a>
+  <div className="flex flex-col">
+    <span className="text-2xl font-semibold tracking-tight text-[#153A5B]">
+      AAROGYA
+    </span>
 
+    <span className="text-[9px] tracking-[3px] text-slate-500 mt-1">
+      PHYSIOTHERAPY
+    </span>
+  </div>
+</a>
         {/* Desktop Navigation */}
         <div className="hidden lg:flex items-center gap-7">
           {links.map((link) => (
