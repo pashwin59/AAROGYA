@@ -10,8 +10,6 @@ import {
   Send,
   ShieldCheck,
   LoaderCircle,
-  ArrowUpRight,
-  Clock,
   ClipboardCheck,
 } from "lucide-react";
 
