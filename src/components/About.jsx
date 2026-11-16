@@ -83,7 +83,7 @@ export default function About() {
             </h3>
 
             <p className="mt-6 md:mt-7 text-slate-500 leading-8">
-              At AAROGYA PHYSIOTHERAPY, we believe that physiotherapy is more than just treating pain — it is about restoring movement, improving physical function and helping people live healthier, more active lives.
+              At Aarogya PHYSIOTHERAPY, we believe that physiotherapy is more than just treating pain — it is about restoring movement, improving physical function and helping people live healthier, more active lives.
             </p>
 
             <p className="mt-5 text-slate-500 leading-8">

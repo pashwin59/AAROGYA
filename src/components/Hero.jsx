@@ -39,7 +39,7 @@ export default function Hero() {
           {/* Description */}
           <p className="mt-8 text-base lg:text-lg text-slate-500 leading-8 max-w-xl">
 Looking for professional physiotherapy in Pokhara? 
-At AAROGYA PHYSIOTHERAPY, we provide personalized, evidence-based care to 
+At Aarogya PHYSIOTHERAPY, we provide personalized, evidence-based care to 
 help you overcome pain, restore mobility and get back to living an active, healthier life.
           </p>
 
